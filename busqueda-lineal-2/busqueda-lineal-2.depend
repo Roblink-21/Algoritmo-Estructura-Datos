@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578430185 source:c:\users\algoritmos\desktop\problemas\2ºbimestre\busqueda-lineal-2\main.cpp
+	<iostream>
+	<fstream>
+
