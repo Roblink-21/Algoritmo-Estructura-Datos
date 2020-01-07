@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578363830 source:c:\users\pc-vict\desktop\agenda\contactos\main.cpp
+	<iostream>
+	<fstream>
+
