@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582213269 source:c:\users\algoritmos\desktop\problemas\2ºbimestre\parte-2\algortimo-heapsort\main.cpp
+	<iostream>
+	"uno.h"
+	"Heapsort.h"
+	"dos.h"
+
+1582213261 c:\users\algoritmos\desktop\problemas\2ºbimestre\parte-2\algortimo-heapsort\uno.h
+
+1582211036 c:\users\algoritmos\desktop\problemas\2ºbimestre\parte-2\algortimo-heapsort\heapsort.h
+
+1582211928 c:\users\algoritmos\desktop\problemas\2ºbimestre\parte-2\algortimo-heapsort\dos.h
+
